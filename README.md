@@ -8,8 +8,9 @@ Repositorio de las actividades de la materia de intelifencia artificial
 - [Cert 4](./Ene-feb/AILG_Pandas.pdf)
 - [Cert 5](./Ene-feb/AILG_IntermediateMachine.pdf)
 - [Cert 6](./Ene-feb/AILG_DataVisualization.pdf)
-- [Cert 7](./Ene-feb/AILG_FeatureEngineering.pdf)
-- [Cert 8](./Ene-feb/AILG_IntrotoSQL.pdf)
+- [Cert 7](./Marzo/AILG_FeatureEngineering.pdf)
+- [Cert 8](./Marzo/AILG_IntrotoSQL.pdf)
+- [Cert 9](./Marzo/AILG_AdvancedSQL.pdf)
 ### Actividades
 - [Act 3](./Ene-feb/IBM-Certificado.pdf)
 - [Act 6](./Ene-feb/AILG_Act6_IA.pdf)
