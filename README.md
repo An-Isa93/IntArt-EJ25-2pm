@@ -16,3 +16,4 @@ Repositorio de las actividades de la materia de intelifencia artificial
 - [Act 6](./Ene-feb/AILG_Act6_IA.pdf)
 - [Act 7](./Ene-feb/AILG_Act7_IA.pdf)
 - [Act 8](./Ene-feb/AILG_Act8_IA.pdf)
+- [Act 9](./Marzo/Regresion%20lineal/AILG_Act9_IA.pdf)
