@@ -15,7 +15,9 @@ pd.set_option('display.width', 500)
 pd.set_option('display.max_colwidth', None)
 
 #cargar datos de entrada
-data = pd.read_csv("./articulos_ml.csv")
+ruta = r"C:\Users\isabe\OneDrive - Universidad Autonoma de Nuevo León\Inteligencia Artificial\Marzo\Regresion lineal multiple\articulos_ml.csv"
+
+data = pd.read_csv(ruta)
 # Muestra las dimensiones del DataFrame
 print("Forma de los datos:", data.shape)  
 #Muestra los primeros 5 registros 
