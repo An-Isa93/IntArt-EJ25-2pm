@@ -24,3 +24,4 @@ Repositorio de las actividades de la materia de intelifencia artificial
 - [Act 11](./Marzo/Regresion%20logistica/AILG_Act11_IA.pdf)
 - [Act 12](./Marzo/Arbol%20de%20decision/AILG_Act12_IA.pdf)
 - [Act 13](./Marzo/Random%20Forest/AILG_Act13_IA.pdf)
+- [Act 14](./Marzo/K-NN/AILG_Act14_IA.pdf)
