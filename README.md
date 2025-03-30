@@ -22,3 +22,4 @@ Repositorio de las actividades de la materia de intelifencia artificial
 - [Act 9](./Marzo/Regresion%20lineal/AILG_Act9_IA.pdf)
 - [Act 10](./Marzo/Regresion%20lineal%20multiple/AILG_Act10_IA.pdf)
 - [Act 11](./Marzo/Regresion%20logistica/AILG_Act11_IA.pdf)
+- [Act 12](./Marzo/Arbol%20de%20decision/AILG_Act12_IA.pdf)
