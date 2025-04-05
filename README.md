@@ -11,6 +11,7 @@ Repositorio de las actividades de la materia de intelifencia artificial
 - [Cert 8](./Marzo/AILG_IntrotoSQL.pdf)
 - [Cert 9](./Marzo/AILG_AdvancedSQL.pdf)
 - [Cert 10](./Marzo/AILG_IntroDeepL.pdf)
+- [Cert 11](./Abril-Mayo/AILG_ComputerVision.pdf)
 ## Enero- Febrero
 ### Actividades
 - [Act 3](./Ene-feb/IBM-Certificado.pdf)
