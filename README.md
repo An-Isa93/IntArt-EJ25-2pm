@@ -13,6 +13,7 @@ Repositorio de las actividades de la materia de intelifencia artificial
 - [Cert 10](./Marzo/AILG_IntroDeepL.pdf)
 - [Cert 11](./Abril-Mayo/AILG_ComputerVision.pdf)
 - [Cert 12](./Abril-Mayo/AILG_TimeSeries.pdf)
+- [Cert 13](./Abril-Mayo/AILG_IntroAIEthics.pdf)
 ## Enero- Febrero
 ### Actividades
 - [Act 3](./Ene-feb/IBM-Certificado.pdf)
