@@ -17,6 +17,7 @@ Repositorio de las actividades de la materia de intelifencia artificial
 - [Cert 14](./Abril-Mayo/AILG_IntroAIEthics.pdf)
 - [Cert 15](./Abril-Mayo/AILG_GeospatialAnalysis.pdf)
 - [Cert 16](./Abril-Mayo/AILG_MachineLearningE.pdf)
+- [Cert 17](./Abril-Mayo/AILG_GameAI.pdf)
 ## Enero- Febrero
 ### Actividades
 - [Act 3](./Ene-feb/IBM-Certificado.pdf)
